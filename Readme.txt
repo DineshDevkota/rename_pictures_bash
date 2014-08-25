@@ -1,0 +1,1 @@
+Repository with bash code for renaming all the pictures with integers. It is done just for edcuational purpose.
